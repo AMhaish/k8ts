@@ -2,7 +2,7 @@
     "name": "k8ts",
     "displayName": "K8TS",
     "description": "Extention pack for Kubernetes & TypeScript development",
-    "icon": "https://github.com/AMhaish/k8ts/logo.jpg",
+    "icon": "logo.jpg",
     "author": {"email": "a.mhaish@gmail.com", "name": "Ahmad Mhaish", "url": "http://amhaish.com"},
     "publisher": "AhmadMhaish",
     "homepage": "https://github.com/AMhaish/k8ts",
