@@ -1,0 +1,41 @@
+{
+    "name": "k8ts",
+    "displayName": "K8TS",
+    "description": "Extention pack for Kubernetes & TypeScript development",
+    "icon": "https://github.com/AMhaish/k8ts/logo.jpg",
+    "author": {"email": "a.mhaish@gmail.com", "name": "Ahmad Mhaish", "url": "http://amhaish.com"},
+    "publisher": "AhmadMhaish",
+    "homepage": "https://github.com/AMhaish/k8ts",
+    "repository": {"url": "https://github.com/AMhaish/k8ts"},
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "aaron-bond.better-comments", 
+        "adpyke.codesnap", 
+        "bierner.markdown-checkbox", 
+        "christian-kohler.path-intellisense", 
+        "CoenraadS.bracket-pair-colorizer-2",
+        "cssho.vscode-svgviewer", 
+        "dbaeumer.vscode-eslint", 
+        "dsznajder.es7-react-js-snippets", 
+        "eamodio.gitlens", 
+        "esbenp.prettier-vscode",  
+        "johnpapa.vscode-peacock", 
+        "mhutchie.git-graph", 
+        "ms-azuretools.vscode-docker", 
+        "ms-kubernetes-tools.vscode-kubernetes-tools", 
+        "PKief.material-icon-theme", 
+        "Shan.code-settings-sync", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "wayou.vscode-todo-highlight", 
+        "xabikos.JavaScriptSnippets", 
+        "Youssef.viow", 
+        "yzhang.markdown-all-in-one", 
+        "kumar-harsh.graphql-for-vscode"
+    ]
+}
